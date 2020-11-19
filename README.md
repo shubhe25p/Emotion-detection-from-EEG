@@ -1,7 +1,6 @@
 # Emotion Detection from EEG
 
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 A KNN classifier to predict human emotions from EEG data
 
